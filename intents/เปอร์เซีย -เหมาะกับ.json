@@ -1,0 +1,35 @@
+{
+  "id": "f51853d7-a298-4fa1-942e-765a86a09e2c",
+  "name": "เปอร์เซีย -เหมาะกับ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "💡 แมวสายพันธุ์เปอร์เซีย เหมาะกับใคร : คนที่ชอบความหรูหรา รักการดูแลขนแมว และอยากได้แมวที่สงบ สุขุม"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

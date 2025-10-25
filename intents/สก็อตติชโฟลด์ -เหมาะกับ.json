@@ -1,0 +1,35 @@
+{
+  "id": "f9e225f3-5e3b-4d24-aca8-549b9b078082",
+  "name": "สก็อตติชโฟลด์ -เหมาะกับ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "💡 แมวสายพันธุ์สก็อตติชโฟลด์ เหมาะกับใคร : คนที่อยากได้แมวน่ารัก ขี้เล่น ขี้อ้อน และหน้าตาแปลกตา"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

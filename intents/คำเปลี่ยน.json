@@ -1,0 +1,35 @@
+{
+  "id": "4e7404ea-1b08-493b-ad7e-a699eb8196cd",
+  "name": "คำเปลี่ยน",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "⚠️ขออภัยค่ะ ช่วยพิมพ์อีกครั้งได้ไหมคะ \nหรือพิมพ์รายการที่ท่านอยากทราบแล้ว\nตามด้วยชื่อสายพันธุ์แมวค่ะ🐱💖🙏"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

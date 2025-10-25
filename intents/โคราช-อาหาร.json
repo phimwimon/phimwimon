@@ -1,0 +1,125 @@
+{
+  "id": "df60c803-6b54-4deb-93a9-8680660fa18e",
+  "name": "โคราช-อาหาร",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "contents": {
+                "direction": "ltr",
+                "header": {
+                  "contents": [
+                    {
+                      "align": "center",
+                      "type": "text",
+                      "text": "Korat Cat",
+                      "weight": "bold",
+                      "color": "#006400"
+                    },
+                    {
+                      "text": "อาหารแมวโคราช",
+                      "type": "text",
+                      "color": "#000000FF"
+                    }
+                  ],
+                  "layout": "vertical",
+                  "type": "box"
+                },
+                "footer": {
+                  "type": "box",
+                  "spacing": "sm",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "color": "#006400",
+                          "action": {
+                            "type": "message",
+                            "label": "สารอาหาร",
+                            "text": "สารอาหารและโภชนาการของแมวโคราช"
+                          },
+                          "style": "primary",
+                          "type": "button",
+                          "height": "sm"
+                        },
+                        {
+                          "height": "sm",
+                          "color": "#006400",
+                          "style": "primary",
+                          "action": {
+                            "text": "ปริมาณอาหารแมวโคราช",
+                            "label": "ปริมาณอาหาร",
+                            "type": "message"
+                          },
+                          "type": "button"
+                        }
+                      ]
+                    },
+                    {
+                      "style": "primary",
+                      "color": "#006400",
+                      "action": {
+                        "label": "📎 แนะนำอาหาร",
+                        "uri": "https://www.purina.co.th/find-a-pet/cat-breeds/korat",
+                        "type": "uri"
+                      },
+                      "type": "button",
+                      "height": "sm"
+                    }
+                  ]
+                },
+                "hero": {
+                  "aspectMode": "fit",
+                  "aspectRatio": "1.51:1",
+                  "type": "image",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%8A.png?alt\u003dmedia\u0026token\u003d43ffbd68-3bee-4109-9771-21733e0c149b",
+                  "size": "5xl"
+                },
+                "type": "bubble"
+              },
+              "altText": "อาหารแมวโคราช"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

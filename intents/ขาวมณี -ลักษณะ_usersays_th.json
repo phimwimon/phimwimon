@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4a67d1d4-b83c-4fcb-91e9-38ebe491c3db",
+    "data": [
+      {
+        "text": "ลักษณะขาวมนี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "43386f51-df77-4cb0-8ad9-5d0a4d033422",
+    "data": [
+      {
+        "text": "ลักษณะ ขาวมณี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "id": "bb2f23d2-e1cb-4c00-907c-803a31abf7b6",
+  "name": "ขาวมณี",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "hero": {
+                  "aspectRatio": "20:13",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%93%E0%B8%B5.jpg?alt\u003dmedia\u0026token\u003deffbfe0e-4b95-478e-900b-757dc0f122bf",
+                  "aspectMode": "cover",
+                  "size": "full",
+                  "type": "image"
+                },
+                "type": "bubble",
+                "body": {
+                  "contents": [
+                    {
+                      "size": "xl",
+                      "weight": "bold",
+                      "type": "text",
+                      "text": "Khaomanee Cat"
+                    },
+                    {
+                      "wrap": true,
+                      "type": "text",
+                      "size": "sm",
+                      "color": "#555555",
+                      "text": "แมวไทยสายพันธุ์ขาวมณี"
+                    }
+                  ],
+                  "layout": "vertical",
+                  "type": "box"
+                },
+                "footer": {
+                  "contents": [
+                    {
+                      "type": "button",
+                      "style": "primary",
+                      "action": {
+                        "type": "message",
+                        "label": "วิธีดูแล ขาวมณี",
+                        "text": "วิธีดูแล ขาวมณี"
+                      }
+                    },
+                    {
+                      "style": "secondary",
+                      "action": {
+                        "text": "อาหาร ขาวมณี",
+                        "type": "message",
+                        "label": "อาหาร ขาวมณี"
+                      },
+                      "type": "button"
+                    },
+                    {
+                      "type": "button",
+                      "style": "secondary",
+                      "action": {
+                        "type": "message",
+                        "label": "ลักษณะ ขาวมณี",
+                        "text": "ลักษณะ ขาวมณี"
+                      }
+                    }
+                  ],
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "type": "box"
+                }
+              },
+              "altText": "Khaomanee Cat",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

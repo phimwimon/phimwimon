@@ -1,0 +1,41 @@
+[
+  {
+    "id": "47906a5e-e1be-43b9-aefa-53cd21e8611a",
+    "data": [
+      {
+        "text": "โคราชเหมาะกับใคร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "8af37a16-540e-4a51-aabd-ae71f6bc058f",
+    "data": [
+      {
+        "text": "โคราดเหมาะกับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "035285de-a9d2-4d31-a66c-6890e64d8fe2",
+    "data": [
+      {
+        "text": "โคราช เหมาะกับใคร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

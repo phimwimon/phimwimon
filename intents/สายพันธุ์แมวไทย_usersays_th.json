@@ -1,0 +1,67 @@
+[
+  {
+    "id": "5e3bda69-5edc-4e4b-9cce-5a2f8eaec923",
+    "data": [
+      {
+        "text": "สายพันไทย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "5f34081a-6394-45f1-93ed-4e0adbf72213",
+    "data": [
+      {
+        "text": "ไทย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "3fc443fb-f8f2-49da-8e38-b15741cda785",
+    "data": [
+      {
+        "text": "แมวไทย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "039d6e58-75fd-4324-9851-9c6fe8984855",
+    "data": [
+      {
+        "text": "สายพันธุ์แมวในไทย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "84933ebd-8a0c-47ac-9721-e6f3c8582ce0",
+    "data": [
+      {
+        "text": "สายพันธุ์แมวที่นิยมในไทย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

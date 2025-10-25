@@ -1,0 +1,191 @@
+{
+  "id": "cd36b5af-a521-4d1a-8023-07927caa266b",
+  "name": "วัคซีนแมว",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "00aaee88-b2b0-4e18-9fee-a6bd24833dbd",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "line",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%A7%E0%B8%B1%E0%B8%84%E0%B8%8B%E0%B8%B5%E0%B8%99%E0%B9%81%E0%B8%A1%E0%B8%A7.jpg?alt\u003dmedia\u0026token\u003d5880d49f-5c54-4319-9138-10d6c39f4108",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "altText": "วัคซีนหลักที่แมวควรได้รับ",
+              "contents": {
+                "body": {
+                  "contents": [
+                    {
+                      "text": "วัคซีนหลักที่แมวควรได้รับ",
+                      "type": "text",
+                      "weight": "bold",
+                      "size": "lg"
+                    },
+                    {
+                      "color": "#555555",
+                      "size": "sm",
+                      "wrap": true,
+                      "text": "📖อ่านเพิ่มเติม การให้วัคซีน🐱",
+                      "type": "text"
+                    }
+                  ],
+                  "layout": "vertical",
+                  "type": "box"
+                },
+                "type": "bubble",
+                "footer": {
+                  "type": "box",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "paddingAll": "md",
+                      "cornerRadius": "md",
+                      "action": {
+                        "label": "อ่านเพิ่มเติม",
+                        "uri": "https://www.setthakitanimalhospital.com/content/31487/%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%89%E0%B8%B5%E0%B8%94%E0%B8%A7%E0%B8%B1%E0%B8%84%E0%B8%8B%E0%B8%B5%E0%B8%99%E0%B9%81%E0%B8%A1%E0%B8%A7-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B8%A7",
+                        "type": "uri"
+                      },
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "color": "#FFFFFF",
+                          "align": "center",
+                          "text": "อ่านเพิ่มเติม",
+                          "weight": "bold",
+                          "type": "text"
+                        }
+                      ],
+                      "backgroundColor": "#FF99CC"
+                    }
+                  ],
+                  "layout": "vertical"
+                }
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "altText": "วัคซีนเสริมสำหรับแมว",
+              "contents": {
+                "body": {
+                  "spacing": "md",
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "วัคซีนเสริมสำหรับแมว",
+                      "color": "#FF6699",
+                      "weight": "bold",
+                      "size": "lg"
+                    },
+                    {
+                      "margin": "md",
+                      "weight": "bold",
+                      "type": "text",
+                      "size": "md",
+                      "text": "📌 วัคซีนเสริมที่แนะนำ"
+                    },
+                    {
+                      "spacing": "sm",
+                      "type": "box",
+                      "contents": [
+                        {
+                          "wrap": true,
+                          "type": "text",
+                          "text": "🔹 FeLV (ลิวคีเมียแมว)\nป้องกันไวรัสจากการกัด\n✅ เหมาะกับลูกแมวและแมวที่ออกนอกบ้าน",
+                          "size": "sm"
+                        },
+                        {
+                          "size": "sm",
+                          "type": "text",
+                          "text": "🔹 FIV (เอดส์แมว)\nวัคซีนทางเลือก สำหรับแมวที่มีความเสี่ยงสูง",
+                          "wrap": true
+                        },
+                        {
+                          "type": "text",
+                          "size": "sm",
+                          "wrap": true,
+                          "text": "🔹 Chlamydophila felis (คลาไมเดีย)\nช่วยลดความเสี่ยงโรคตาอักเสบ"
+                        },
+                        {
+                          "wrap": true,
+                          "type": "text",
+                          "text": "🔹 Bordetella bronchiseptica (บอร์เดเทลลา)\nเหมาะกับแมวที่อยู่รวมกันจำนวนมาก 🏠 หรือสถานพักพิง",
+                          "size": "sm"
+                        }
+                      ],
+                      "layout": "vertical"
+                    }
+                  ]
+                },
+                "type": "bubble"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

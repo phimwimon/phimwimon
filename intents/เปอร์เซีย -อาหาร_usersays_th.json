@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4b5c15e7-f240-4d6b-9312-34f78ef96509",
+    "data": [
+      {
+        "text": "แนะนำอาหารดเปอร์เซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "47e94c35-d4e0-478f-9426-9f1c51f273ec",
+    "data": [
+      {
+        "text": "แนะนำอาหารเปอเซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "cbf95250-db80-423e-a8d8-24291e03cd28",
+    "data": [
+      {
+        "text": "อาหารแมวเปอร์เซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "6d760ee9-4695-4b40-bfcd-20869a2046d4",
+    "data": [
+      {
+        "text": "อาหานเปอเซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "5a76c397-bd90-4364-b0c8-f4a7f2cf3781",
+    "data": [
+      {
+        "text": "อาหาร เปอร์เซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ddcb1048-8e4d-4041-8ce7-73434a735bc2",
+    "data": [
+      {
+        "text": "อาหารเปอเซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

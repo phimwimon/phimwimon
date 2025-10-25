@@ -1,0 +1,35 @@
+{
+  "id": "6c904113-9bad-4fb7-b5d5-a0fd94406f22",
+  "name": "ขาวมณี-เหมาะกับ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "💡 แมวสายพันธุ์ขาวมณี เหมาะกับใคร : คนที่ชอบความสง่างาม เรียบง่าย แต่แฝงความโดดเด่น"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

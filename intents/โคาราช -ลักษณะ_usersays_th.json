@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b10a7aaa-1957-4443-bdf8-cba0f797a880",
+    "data": [
+      {
+        "text": "โคราชลักษณะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "1f92ad1a-d297-46bc-9992-24d49a059996",
+    "data": [
+      {
+        "text": "ลักษนะโคราช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d1c95d8a-f604-4379-882f-844844efd45a",
+    "data": [
+      {
+        "text": "ลักษณะโคราช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "4a5e885a-1ce1-48bf-9dc9-48617b2b39cc",
+    "data": [
+      {
+        "text": "โคราด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "360484b0-88de-4e3e-a591-65b4a641c8f5",
+    "data": [
+      {
+        "text": "ราช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e9c32d27-f151-47ee-80a5-3e1b2de86563",
+    "data": [
+      {
+        "text": "โค",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "83f9f17f-9499-4de6-875b-004cef0d1500",
+    "data": [
+      {
+        "text": "แมวพันธุ์โคราช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "7466d7b3-dbf9-4889-ba10-2de031bcae5a",
+    "data": [
+      {
+        "text": "แมวโคราช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "cbb20f27-93ab-46da-80fa-d52f0a870a20",
+    "data": [
+      {
+        "text": "โคราช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

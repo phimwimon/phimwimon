@@ -1,0 +1,67 @@
+[
+  {
+    "id": "eea7aa95-ee6c-4a47-9074-19c71897d430",
+    "data": [
+      {
+        "text": "ปริมาณอาหารสกอตติช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4e096895-a5e8-455f-bb4e-ffbc507622ff",
+    "data": [
+      {
+        "text": "ปริมาณสก็อตติช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "83735295-46ca-4687-8c20-d7d1ccc692de",
+    "data": [
+      {
+        "text": "ปริมาณอาหารแมวสกอต",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "f5e1a798-855f-47a2-a342-3cdd68729518",
+    "data": [
+      {
+        "text": "ปริมาณอาหารสก็อตติช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ab6119f7-c214-4cf3-aa80-396dbd813ac4",
+    "data": [
+      {
+        "text": "ปริมาณอาหารแมวสก็อตติชโฟลด์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

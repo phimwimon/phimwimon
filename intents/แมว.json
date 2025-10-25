@@ -1,0 +1,94 @@
+{
+  "id": "0629da73-d5c8-4bd3-8cc5-ed62039c5d29",
+  "name": "แมว",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "แมว",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "quickReply": {
+                "items": [
+                  {
+                    "action": {
+                      "type": "message",
+                      "label": "วิเชียรมาศ",
+                      "text": "วิเชียรมาศ"
+                    },
+                    "type": "action"
+                  },
+                  {
+                    "type": "action",
+                    "action": {
+                      "label": "ขาวมณี",
+                      "text": "ขาวมณี",
+                      "type": "message"
+                    }
+                  },
+                  {
+                    "action": {
+                      "text": "โคราช",
+                      "label": "โคราช",
+                      "type": "message"
+                    },
+                    "type": "action"
+                  },
+                  {
+                    "type": "action",
+                    "action": {
+                      "text": "เปอร์เซีย",
+                      "label": "เปอร์เซีย",
+                      "type": "message"
+                    }
+                  },
+                  {
+                    "type": "action",
+                    "action": {
+                      "label": "สก็อตติชโฟลด์",
+                      "type": "message",
+                      "text": "สก็อตติชโฟลด์"
+                    }
+                  },
+                  {
+                    "action": {
+                      "label": "เอ็กซ์โซติก ช็อตแฮร์",
+                      "type": "message",
+                      "text": "เอ็กซ์โซติก ช็อตแฮร์"
+                    },
+                    "type": "action"
+                  }
+                ]
+              },
+              "text": "เลือกสายพันธุ์แมว:",
+              "type": "text"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

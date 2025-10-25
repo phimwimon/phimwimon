@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e462d125-9857-4c57-a8da-c32f76adda61",
+    "data": [
+      {
+        "text": "สารอาหารแมวเอ็กโซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c7a7bb0c-82f3-4142-9473-3db1cd4df146",
+    "data": [
+      {
+        "text": "สารอาหารเอกโซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "0ade270c-5d48-4bfa-b188-12966199549d",
+    "data": [
+      {
+        "text": "สารอาหารเอ็กซ์โซติกช็อตแฮร์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d37e2dac-2a2d-4f61-a9af-44b9995ddf6a",
+    "data": [
+      {
+        "text": "สารอาหารแมวเอ็กซ์โซติกช็อตแฮร์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c3fbde61-490b-4071-889b-fca498e1d5c5",
+    "data": [
+      {
+        "text": "สารอาหารเอ็กโซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "77e581aa-4a37-4989-ad52-893f2cdb9907",
+    "data": [
+      {
+        "text": "สารอาหารแมวเอ็กซ์โซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

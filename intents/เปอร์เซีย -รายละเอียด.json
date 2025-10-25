@@ -1,0 +1,35 @@
+{
+  "id": "ee1db3f2-3f64-41e9-ae0e-ee22ef05138c",
+  "name": "เปอร์เซีย -รายละเอียด",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "👑 แมวเปอร์เซีย\n\n✨ จุดเด่น\n🧸 ขนยาวหนาฟู สีหลากหลาย (สีล้วน / ไล่สี / ลาย)\n😊 หน้ากลม แก้มเต็ม ตากลมโต\n🐾 ขาสั้นเตี้ย รูปร่างป้อม"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

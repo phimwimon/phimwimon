@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7dc4893d-73fc-424c-b8ea-f80537cdb619",
+    "data": [
+      {
+        "text": "ปริมาณวิเชียรมาศ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "8581b3b0-f774-46c5-b9ab-85ba967ade93",
+    "data": [
+      {
+        "text": "ปริมาณอาหารวิเชียรมาศ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "7a58c2f0-e7b1-4a19-8eae-d52a393bc059",
+    "data": [
+      {
+        "text": "ปริมาณอาหารแมววิเชียรมาศ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

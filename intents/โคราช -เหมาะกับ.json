@@ -1,0 +1,35 @@
+{
+  "id": "e8ad7a19-3293-47f9-9e22-8a6794206820",
+  "name": "โคราช -เหมาะกับ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "💡 แมวสายพันธุ์โคราช เหมาะกับใคร : คนที่ชอบแมวมงคล ดูภูมิฐาน แต่ก็แฝงความน่ารักอบอุ่น"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

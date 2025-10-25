@@ -1,0 +1,67 @@
+[
+  {
+    "id": "e075bf68-1b2b-4737-92c1-bd78f1dde6fd",
+    "data": [
+      {
+        "text": "เปอ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ad21118a-3ea1-4e72-9612-c8086d996a44",
+    "data": [
+      {
+        "text": "ขนยาว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "5e42a25e-413c-4ef0-83d1-622c40dbc3aa",
+    "data": [
+      {
+        "text": "เปอร์เชีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e8fad529-87be-4547-b54b-1b1a6b57ca26",
+    "data": [
+      {
+        "text": "เปอเซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ad90d57d-a5ca-4117-a67f-10a2542025cd",
+    "data": [
+      {
+        "text": "เปอร์เซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

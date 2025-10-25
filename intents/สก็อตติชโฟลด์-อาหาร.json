@@ -1,0 +1,125 @@
+{
+  "id": "9ba5c056-c2fc-4614-bc3c-4812c95f2c6e",
+  "name": "สก็อตติชโฟลด์-อาหาร",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "อาหารแมวสก็อตติชโฟลด์",
+              "type": "flex",
+              "contents": {
+                "type": "bubble",
+                "hero": {
+                  "type": "image",
+                  "aspectMode": "fit",
+                  "size": "5xl",
+                  "aspectRatio": "1.51:1",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%95.png?alt\u003dmedia\u0026token\u003d177533e1-4432-4167-af8c-7deb881fc7e5"
+                },
+                "direction": "ltr",
+                "footer": {
+                  "contents": [
+                    {
+                      "contents": [
+                        {
+                          "color": "#8B4513",
+                          "height": "sm",
+                          "type": "button",
+                          "action": {
+                            "type": "message",
+                            "text": "สารอาหารแมวสก็อตติชโฟลด์",
+                            "label": "สารอาหาร"
+                          },
+                          "style": "primary"
+                        },
+                        {
+                          "action": {
+                            "type": "message",
+                            "label": "ปริมาณอาหาร",
+                            "text": "ปริมาณอาหารแมวสก็อตติชโฟลด์"
+                          },
+                          "style": "primary",
+                          "color": "#8B4513",
+                          "type": "button",
+                          "height": "sm"
+                        }
+                      ],
+                      "type": "box",
+                      "layout": "horizontal",
+                      "spacing": "sm"
+                    },
+                    {
+                      "height": "sm",
+                      "type": "button",
+                      "style": "primary",
+                      "action": {
+                        "type": "uri",
+                        "label": "📎 แนะนำอาหาร",
+                        "uri": "https://www.purina.co.th/find-a-pet/cat-breeds/scottish-fold"
+                      },
+                      "color": "#8B4513"
+                    }
+                  ],
+                  "spacing": "sm",
+                  "layout": "vertical",
+                  "type": "box"
+                },
+                "header": {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "color": "#8B4513",
+                      "text": "Scottish Fold Cat",
+                      "type": "text",
+                      "weight": "bold",
+                      "align": "center"
+                    },
+                    {
+                      "text": "อาหารแมวสก็อตติชโฟลด์",
+                      "type": "text",
+                      "color": "#000000FF"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

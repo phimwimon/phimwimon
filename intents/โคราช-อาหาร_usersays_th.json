@@ -1,0 +1,54 @@
+[
+  {
+    "id": "2a6704eb-caff-436b-b37f-3bb2897ff371",
+    "data": [
+      {
+        "text": "แนะนำอาหารโคราช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "fb45c869-1a0a-42c2-a792-00f65a77ddb7",
+    "data": [
+      {
+        "text": "แนะนำอาหารแมวโคราช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "7ca9184d-46c5-42b9-9bd2-0b395fe6e7a0",
+    "data": [
+      {
+        "text": "อาหารแมวโคราช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "20a3959d-440d-4cd8-b665-93be4fb841ba",
+    "data": [
+      {
+        "text": "อาหารโคราช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

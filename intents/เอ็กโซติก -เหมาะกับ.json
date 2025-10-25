@@ -1,0 +1,35 @@
+{
+  "id": "3440e864-3e27-4a68-acc2-2340899378dc",
+  "name": "เอ็กโซติก -เหมาะกับ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "💡 แมวสายพันธุ์เอ็กซ์โซติก เหมาะกับใคร : คนที่อยากเลี้ยงแมวหน้าตาน่ารักแบบเปอร์เซีย แต่ไม่อยากดูแลขนยาวมาก"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

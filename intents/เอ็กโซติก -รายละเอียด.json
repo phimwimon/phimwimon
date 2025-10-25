@@ -1,0 +1,35 @@
+{
+  "id": "6a23b69f-f25c-4a64-a612-02b571c92853",
+  "name": "เอ็กโซติก -รายละเอียด",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "😼 แมวเอ็กซ์โซติก\n\n✨ จุดเด่น\n🎭 หน้าบูดน่ารัก หัวกลม กะโหลกใหญ่\n🐾 หน้าสั้น จมูกแบน\n🧴 ขนสั้น-ปานกลาง หนานุ่มเหมือนกำมะหยี่"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

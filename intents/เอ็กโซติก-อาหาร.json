@@ -1,0 +1,125 @@
+{
+  "id": "e35dca74-8c26-4b05-bfff-9b23174f7a7d",
+  "name": "เอ็กโซติก-อาหาร",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "อาหารแมวเอ็กซ์โซติก ช็อตแฮร์",
+              "type": "flex",
+              "contents": {
+                "type": "bubble",
+                "footer": {
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "layout": "horizontal",
+                      "type": "box",
+                      "contents": [
+                        {
+                          "height": "sm",
+                          "color": "#8B4513",
+                          "action": {
+                            "label": "สารอาหาร",
+                            "type": "message",
+                            "text": "สารอาหารแมวเอ็กซ์โซติก"
+                          },
+                          "style": "primary",
+                          "type": "button"
+                        },
+                        {
+                          "style": "primary",
+                          "color": "#8B4513",
+                          "action": {
+                            "text": "ปริมาณอาหารแมวเอ็กซ์โซติก",
+                            "label": "ปริมาณอาหาร",
+                            "type": "message"
+                          },
+                          "height": "sm",
+                          "type": "button"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "height": "sm",
+                      "action": {
+                        "label": "📎 แนะนำอาหาร",
+                        "type": "uri",
+                        "uri": "https://www.purina.co.th/find-a-pet/cat-breeds/exotic-shorthair"
+                      },
+                      "color": "#8B4513",
+                      "type": "button",
+                      "style": "primary"
+                    }
+                  ],
+                  "type": "box"
+                },
+                "hero": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C.png?alt\u003dmedia\u0026token\u003debe51d6c-e6d7-4b5e-9fd9-c940bd00dc3f",
+                  "size": "5xl",
+                  "type": "image",
+                  "aspectMode": "fit",
+                  "aspectRatio": "1.51:1"
+                },
+                "direction": "ltr",
+                "header": {
+                  "contents": [
+                    {
+                      "weight": "bold",
+                      "color": "#8B4513",
+                      "text": "Exotic Shorthair Cat",
+                      "align": "center",
+                      "type": "text"
+                    },
+                    {
+                      "type": "text",
+                      "color": "#000000FF",
+                      "text": "อาหารแมวเอ็กซ์โซติก ช็อตแฮร์"
+                    }
+                  ],
+                  "type": "box",
+                  "layout": "vertical"
+                }
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

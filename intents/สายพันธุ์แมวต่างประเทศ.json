@@ -1,0 +1,237 @@
+{
+  "id": "79a5734d-4747-4a9e-aa2a-b20ca9a6dbe5",
+  "name": "สายพันธุ์แมวต่างประเทศ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "altText": "แมวต่างประเทศ",
+              "contents": {
+                "contents": [
+                  {
+                    "footer": {
+                      "spacing": "sm",
+                      "type": "box",
+                      "contents": [
+                        {
+                          "action": {
+                            "label": "วิธีดูแล เปอร์เซีย",
+                            "type": "message",
+                            "text": "วิธีดูแล เปอร์เซีย"
+                          },
+                          "type": "button",
+                          "style": "primary"
+                        },
+                        {
+                          "action": {
+                            "text": "อาหาร เปอร์เซีย",
+                            "type": "message",
+                            "label": "อาหาร เปอร์เซีย"
+                          },
+                          "style": "secondary",
+                          "type": "button"
+                        },
+                        {
+                          "action": {
+                            "label": "ลักษณะ เปอร์เซีย",
+                            "type": "message",
+                            "text": "ลักษณะ เปอร์เซีย"
+                          },
+                          "type": "button",
+                          "style": "secondary"
+                        }
+                      ],
+                      "layout": "vertical"
+                    },
+                    "hero": {
+                      "size": "full",
+                      "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2.jpg?alt\u003dmedia\u0026token\u003d29719b62-2656-46ef-8d25-9c6e10d88a18",
+                      "aspectMode": "cover",
+                      "aspectRatio": "20:13",
+                      "type": "image"
+                    },
+                    "body": {
+                      "contents": [
+                        {
+                          "size": "xl",
+                          "weight": "bold",
+                          "text": "Persian Cat",
+                          "type": "text"
+                        },
+                        {
+                          "type": "text",
+                          "text": "แมวต่างประเทศสายพันธุ์เปอร์เซีย",
+                          "size": "sm",
+                          "color": "#666666",
+                          "wrap": true
+                        }
+                      ],
+                      "type": "box",
+                      "layout": "vertical"
+                    },
+                    "type": "bubble"
+                  },
+                  {
+                    "body": {
+                      "layout": "vertical",
+                      "type": "box",
+                      "contents": [
+                        {
+                          "size": "xl",
+                          "text": "Scottish Fold Cat",
+                          "weight": "bold",
+                          "type": "text"
+                        },
+                        {
+                          "text": "แมวต่างประเทศสายพันธุ์สก็อตติช โฟลด์",
+                          "wrap": true,
+                          "size": "sm",
+                          "color": "#666666",
+                          "type": "text"
+                        }
+                      ]
+                    },
+                    "hero": {
+                      "type": "image",
+                      "size": "full",
+                      "aspectMode": "cover",
+                      "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%AA%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%8A%E0%B9%82%E0%B8%9F%E0%B8%A5%E0%B8%94%E0%B9%8C.jpg?alt\u003dmedia\u0026token\u003daa7ad90e-e8d2-4e3c-8687-13d4dde31e0b",
+                      "aspectRatio": "20:13"
+                    },
+                    "type": "bubble",
+                    "footer": {
+                      "type": "box",
+                      "contents": [
+                        {
+                          "action": {
+                            "text": "วิธีดูแล สก็อตติช",
+                            "type": "message",
+                            "label": "วิธีดูแล สก็อตติช"
+                          },
+                          "type": "button",
+                          "style": "primary"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "text": "อาหาร สก็อตติช",
+                            "type": "message",
+                            "label": "อาหาร สก็อตติช"
+                          },
+                          "style": "secondary"
+                        },
+                        {
+                          "style": "secondary",
+                          "type": "button",
+                          "action": {
+                            "label": "ลักษณะ สก็อตติช",
+                            "text": "ลักษณะ สก็อตติช",
+                            "type": "message"
+                          }
+                        }
+                      ],
+                      "spacing": "sm",
+                      "layout": "vertical"
+                    }
+                  },
+                  {
+                    "body": {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "weight": "bold",
+                          "text": "Exotic Shorthair Cat",
+                          "size": "xl",
+                          "type": "text"
+                        },
+                        {
+                          "size": "sm",
+                          "wrap": true,
+                          "text": "แมวต่างประเทศสายพันธุ์เอ็กซ์โซติก ช็อตแฮร์",
+                          "type": "text",
+                          "color": "#666666"
+                        }
+                      ]
+                    },
+                    "hero": {
+                      "type": "image",
+                      "size": "full",
+                      "aspectMode": "cover",
+                      "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%82%E0%B8%8B%E0%B8%95%E0%B8%B4%E0%B8%81.png?alt\u003dmedia\u0026token\u003d4c501897-43cb-4084-9ba9-7c59b754fcda",
+                      "aspectRatio": "20:13"
+                    },
+                    "type": "bubble",
+                    "footer": {
+                      "spacing": "sm",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "action": {
+                            "type": "message",
+                            "text": "วิธีดูแล เอ็กซ์โซติก",
+                            "label": "วิธีดูแล เอ็กซ์โซติก"
+                          },
+                          "type": "button",
+                          "style": "primary"
+                        },
+                        {
+                          "action": {
+                            "type": "message",
+                            "label": "อาหาร เอ็กซ์โซติก",
+                            "text": "อาหาร เอ็กซ์โซติก"
+                          },
+                          "style": "secondary",
+                          "type": "button"
+                        },
+                        {
+                          "style": "secondary",
+                          "action": {
+                            "label": "ลักษณะ เอ็กซ์โซติก",
+                            "type": "message",
+                            "text": "ลักษณะ เอ็กซ์โซติก"
+                          },
+                          "type": "button"
+                        }
+                      ],
+                      "type": "box"
+                    }
+                  }
+                ],
+                "type": "carousel"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

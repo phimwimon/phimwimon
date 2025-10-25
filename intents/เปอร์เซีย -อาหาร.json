@@ -1,0 +1,125 @@
+{
+  "id": "20402b04-ff8c-4181-a99d-1512d544a8e1",
+  "name": "เปอร์เซีย -อาหาร",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "อาหารแมวเปอร์เซีย",
+              "contents": {
+                "header": {
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "weight": "bold",
+                      "align": "center",
+                      "text": "Persian Cat",
+                      "color": "#8B4513",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#000000FF",
+                      "text": "อาหารแมวเปอร์เซีย",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "box"
+                },
+                "hero": {
+                  "type": "image",
+                  "aspectRatio": "1.51:1",
+                  "aspectMode": "fit",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2.png?alt\u003dmedia\u0026token\u003d4081ec15-e5ae-48fb-abc3-9c844fa36b65",
+                  "size": "5xl"
+                },
+                "footer": {
+                  "contents": [
+                    {
+                      "spacing": "sm",
+                      "layout": "horizontal",
+                      "type": "box",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "label": "สารอาหาร",
+                            "type": "message",
+                            "text": "สารอาหารแมวเปอร์เซีย"
+                          },
+                          "height": "sm",
+                          "style": "primary",
+                          "color": "#8B4513"
+                        },
+                        {
+                          "color": "#8B4513",
+                          "style": "primary",
+                          "height": "sm",
+                          "action": {
+                            "text": "ปริมาณอาหารแมวเปอร์เซีย",
+                            "label": "ปริมาณอาหาร",
+                            "type": "message"
+                          },
+                          "type": "button"
+                        }
+                      ]
+                    },
+                    {
+                      "style": "primary",
+                      "color": "#8B4513",
+                      "type": "button",
+                      "action": {
+                        "uri": "https://www.royalcanin.com/th/cats/breeds/persian",
+                        "type": "uri",
+                        "label": "📎 แนะนำอาหาร"
+                      },
+                      "height": "sm"
+                    }
+                  ],
+                  "spacing": "sm",
+                  "layout": "vertical",
+                  "type": "box"
+                },
+                "type": "bubble",
+                "direction": "ltr"
+              },
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

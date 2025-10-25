@@ -1,0 +1,28 @@
+[
+  {
+    "id": "7e55e0e0-9778-46c9-a382-5ad66cb30fc3",
+    "data": [
+      {
+        "text": "ลักษณะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "19aab5c9-eba4-48ef-83b9-c2989af80bba",
+    "data": [
+      {
+        "text": "ลักษณะแมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

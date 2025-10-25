@@ -1,0 +1,41 @@
+[
+  {
+    "id": "083502ff-62d9-4532-a9b2-4b19d497e3bc",
+    "data": [
+      {
+        "text": "พันธุ์แมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ceb94fe7-2c4c-49dc-a8c2-ac364607d2d6",
+    "data": [
+      {
+        "text": "แวม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "b09a9782-cac4-40f8-80a9-c149fb711ce7",
+    "data": [
+      {
+        "text": "แมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

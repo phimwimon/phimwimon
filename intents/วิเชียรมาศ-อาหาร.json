@@ -1,0 +1,125 @@
+{
+  "id": "3832fe6b-1658-40a4-b697-602f5b89a0c2",
+  "name": "วิเชียรมาศ-อาหาร",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "direction": "ltr",
+                "footer": {
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "horizontal",
+                      "contents": [
+                        {
+                          "style": "primary",
+                          "height": "sm",
+                          "type": "button",
+                          "action": {
+                            "label": "สารอาหาร",
+                            "text": "สารอาหารสำหรับแมววิเชียรมาศ",
+                            "type": "message"
+                          },
+                          "color": "#006400"
+                        },
+                        {
+                          "color": "#006400",
+                          "action": {
+                            "label": "ปริมาณอาหาร",
+                            "text": "ปริมาณอาหารแมววิเชียรมาศ",
+                            "type": "message"
+                          },
+                          "type": "button",
+                          "height": "sm",
+                          "style": "primary"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "height": "sm",
+                      "color": "#006400",
+                      "style": "primary",
+                      "type": "button",
+                      "action": {
+                        "type": "uri",
+                        "label": "📎 แนะนำอาหาร",
+                        "uri": "https://www.royalcanin.com/th/cats/products/retail-products/siamese-adult-2551"
+                      }
+                    }
+                  ],
+                  "type": "box",
+                  "spacing": "sm",
+                  "layout": "vertical"
+                },
+                "type": "bubble",
+                "hero": {
+                  "size": "5xl",
+                  "aspectMode": "fit",
+                  "aspectRatio": "1.51:1",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%A8.png?alt\u003dmedia\u0026token\u003db7d4874b-13d1-4b29-bc76-c173ec05c458",
+                  "type": "image"
+                },
+                "header": {
+                  "contents": [
+                    {
+                      "color": "#006400",
+                      "align": "center",
+                      "weight": "bold",
+                      "type": "text",
+                      "text": "Siamese Cat"
+                    },
+                    {
+                      "color": "#000000FF",
+                      "type": "text",
+                      "text": "อาหารแมววิเชียรมาศ"
+                    }
+                  ],
+                  "layout": "vertical",
+                  "type": "box"
+                }
+              },
+              "altText": "อาหารแมววิเชียรมาศ",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

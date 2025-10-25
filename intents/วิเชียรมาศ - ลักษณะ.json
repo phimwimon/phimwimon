@@ -1,0 +1,96 @@
+{
+  "id": "9f0922ea-58f7-4f60-b5e1-ff213196d825",
+  "name": "วิเชียรมาศ - ลักษณะ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-later",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "contents": {
+                "footer": {
+                  "type": "box",
+                  "contents": [
+                    {
+                      "action": {
+                        "text": "รายละเอียด วิเชียรมาศ",
+                        "type": "message",
+                        "label": "🔎 รายละเอียด"
+                      },
+                      "style": "primary",
+                      "type": "button"
+                    },
+                    {
+                      "style": "secondary",
+                      "type": "button",
+                      "action": {
+                        "label": "🐾 เหมาะกับใคร",
+                        "text": "วิเชียรมาศ เหมาะกับใคร",
+                        "type": "message"
+                      }
+                    }
+                  ],
+                  "layout": "horizontal",
+                  "spacing": "sm"
+                },
+                "hero": {
+                  "aspectRatio": "20:13",
+                  "size": "full",
+                  "type": "image",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%A8.jpg?alt\u003dmedia\u0026token\u003de4e8ad70-e11a-42a7-82a7-70fdd8b9aeb6",
+                  "aspectMode": "cover"
+                },
+                "body": {
+                  "layout": "vertical",
+                  "type": "box",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "size": "xl",
+                      "text": "วิเชียรมาศ",
+                      "weight": "bold"
+                    },
+                    {
+                      "size": "sm",
+                      "type": "text",
+                      "wrap": true,
+                      "text": "👀 ตาสีฟ้า ขนงาช้าง แต้ม 9 จุด",
+                      "color": "#555555"
+                    }
+                  ]
+                },
+                "type": "bubble"
+              },
+              "altText": "แมววิเชียรมาศ"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "3a56862f-9d5b-4465-8749-1a4a1203e8be",
+    "data": [
+      {
+        "text": "คนเหมาะกับเปอร์เซียร์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "030d40db-4923-42d8-a5ff-94818d959545",
+    "data": [
+      {
+        "text": "ความเหมาะกับเปอร์เซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "f31e85cd-3e84-4d22-9de5-2508caca3db2",
+    "data": [
+      {
+        "text": "เปอเซียเหมาะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "902b60af-118d-4390-b080-3e0887d245b2",
+    "data": [
+      {
+        "text": "เปอร์เซีย เหมาะกับใคร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

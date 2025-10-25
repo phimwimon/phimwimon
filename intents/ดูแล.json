@@ -1,0 +1,101 @@
+{
+  "id": "7e3ce086-9ae5-4fdc-a768-c5290cd53d25",
+  "name": "ดูแล",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "quickReply": {
+                "items": [
+                  {
+                    "action": {
+                      "type": "message",
+                      "text": "วิธีดูแล วิเชียรมาศ",
+                      "label": "วิเชียรมาศ"
+                    },
+                    "type": "action"
+                  },
+                  {
+                    "action": {
+                      "label": "ขาวมณี",
+                      "type": "message",
+                      "text": "วิธีดูแล ขาวมณี"
+                    },
+                    "type": "action"
+                  },
+                  {
+                    "action": {
+                      "text": "วิธีดูแล โคราช",
+                      "label": "โคราช",
+                      "type": "message"
+                    },
+                    "type": "action"
+                  },
+                  {
+                    "action": {
+                      "type": "message",
+                      "label": "เปอร์เซีย",
+                      "text": "วิธีดูแล เปอร์เซีย"
+                    },
+                    "type": "action"
+                  },
+                  {
+                    "type": "action",
+                    "action": {
+                      "type": "message",
+                      "text": "วิธีดูแล สก็อตติชโฟลด์",
+                      "label": "สก็อตติชโฟลด์"
+                    }
+                  },
+                  {
+                    "type": "action",
+                    "action": {
+                      "text": "วิธีดูแล เอ็กซ์โซติก ช็อตแฮร์",
+                      "label": "เอ็กซ์โซติก ช็อตแฮร์",
+                      "type": "message"
+                    }
+                  }
+                ]
+              },
+              "type": "text",
+              "text": "เลือกสายพันธุ์แมว:"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

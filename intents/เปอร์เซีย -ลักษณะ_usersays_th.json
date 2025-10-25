@@ -1,0 +1,54 @@
+[
+  {
+    "id": "25a768a7-2231-430b-aca8-f89be6842421",
+    "data": [
+      {
+        "text": "ลักษณะ เปอร์เซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4f38f3c0-13e0-4b04-b4cd-5832702bbe96",
+    "data": [
+      {
+        "text": "ลักษณะเปอเซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "46c9e784-2b1a-4c61-9453-81a4136a3f3c",
+    "data": [
+      {
+        "text": "เปอเซีย -ลักษณะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "99347860-3909-42f5-b4fd-33b456537131",
+    "data": [
+      {
+        "text": "เปอร์เซีย ลักษณะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

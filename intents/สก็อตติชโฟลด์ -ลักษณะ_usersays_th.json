@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b790a8da-3033-4a0d-8f99-16b5feaefec5",
+    "data": [
+      {
+        "text": "ลักษณะ สก็อต",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4e603804-7654-4410-81f4-d1696bed7664",
+    "data": [
+      {
+        "text": "ลักษณะ สกอต",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "5fbb8f72-2e7d-4b5f-ab54-ba23277a94e0",
+    "data": [
+      {
+        "text": "ลักษณะ สก็อตติช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "01fa50a9-6745-4513-bf22-4ad9ddfa0722",
+    "data": [
+      {
+        "text": "ลักษณะ สก็อตติชโฟลด์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "eb8acd2e-79f2-4219-8f03-8bcd0d20b43b",
+    "data": [
+      {
+        "text": "สกอตติชโฟลด์ ลักษณะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "cfb18196-09bd-4fa4-bf6b-c5f3e643e7c1",
+    "data": [
+      {
+        "text": "สก็อตติชโฟลด์ ลักษณะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "331c6bd8-8631-4f52-af65-726e4523e53c",
+    "data": [
+      {
+        "text": "วิเชียรมาศ เหมาะกับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "be7d78bf-24f8-49a2-b463-a890b7d55e24",
+    "data": [
+      {
+        "text": "วิเชียรมาศ เหมาะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "bf10208f-5af1-49d8-a2cc-50620b6c5324",
+    "data": [
+      {
+        "text": "วิเชียรมาศ เหมาะกับใคร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

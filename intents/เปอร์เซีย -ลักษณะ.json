@@ -1,0 +1,96 @@
+{
+  "id": "2b378a6a-9d94-4c95-98d2-6811893ac537",
+  "name": "เปอร์เซีย -ลักษณะ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "footer": {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "style": "primary",
+                      "action": {
+                        "type": "message",
+                        "text": "รายละเอียด เปอร์เซีย",
+                        "label": "🔎 รายละเอียด"
+                      },
+                      "type": "button"
+                    },
+                    {
+                      "type": "button",
+                      "style": "secondary",
+                      "action": {
+                        "text": "เปอร์เซีย เหมาะกับใคร",
+                        "type": "message",
+                        "label": "🐾 เหมาะกับใคร"
+                      }
+                    }
+                  ],
+                  "spacing": "sm"
+                },
+                "type": "bubble",
+                "body": {
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "weight": "bold",
+                      "text": "เปอร์เซีย",
+                      "size": "xl"
+                    },
+                    {
+                      "color": "#555555",
+                      "text": "👑 ขนยาวฟู สีหลากหลาย หน้ากลมตาโต",
+                      "wrap": true,
+                      "size": "sm",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "box"
+                },
+                "hero": {
+                  "type": "image",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2.jpg?alt\u003dmedia\u0026token\u003d29719b62-2656-46ef-8d25-9c6e10d88a18",
+                  "aspectMode": "cover",
+                  "size": "full",
+                  "aspectRatio": "20:13"
+                }
+              },
+              "altText": "แมวเปอร์เซีย",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

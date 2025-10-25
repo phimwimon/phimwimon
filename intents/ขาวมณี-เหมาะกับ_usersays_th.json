@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b66ac0bf-80c3-4fdb-b4cd-1635dd04e9d2",
+    "data": [
+      {
+        "text": "ขาวมนีเหมาะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "0b9fcb74-8030-4a38-83b7-0b06e6f2e0f8",
+    "data": [
+      {
+        "text": "ขาวมนี เหมาะกับใคร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "62a0d0e5-a083-4a39-a326-39b772c57e1c",
+    "data": [
+      {
+        "text": "ขาวมณี เหมาะกับใคร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

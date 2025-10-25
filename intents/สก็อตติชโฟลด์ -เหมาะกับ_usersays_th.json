@@ -1,0 +1,67 @@
+[
+  {
+    "id": "3eb90ee9-466e-4fec-9614-cf9d811d4ab3",
+    "data": [
+      {
+        "text": "คนเหมาะกับสก็อตติชโฟลด์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "5e2b3de5-3463-4b0f-bc68-42ca02c16096",
+    "data": [
+      {
+        "text": "คนเหมาะกับสกอตติช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d331ef41-b480-416b-b36e-09066ad59116",
+    "data": [
+      {
+        "text": "สก็อตติช เหมาะกับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4541a73f-f91c-4f74-ae27-a06f7bcf53e3",
+    "data": [
+      {
+        "text": "สก็อตติชโฟลด์ เหมาะกับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "9d47da23-47a4-4de3-be8f-671097f2b1dd",
+    "data": [
+      {
+        "text": "สก็อตติชโฟลด์ เหมาะกับใคร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

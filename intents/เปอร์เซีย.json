@@ -1,0 +1,105 @@
+{
+  "id": "b742715e-58a5-452d-8216-29eb0fd1d1f2",
+  "name": "เปอร์เซีย",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "footer": {
+                  "type": "box",
+                  "spacing": "sm",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "button",
+                      "action": {
+                        "label": "วิธีดูแล เปอร์เซีย",
+                        "text": "วิธีดูแล เปอร์เซีย",
+                        "type": "message"
+                      },
+                      "style": "primary"
+                    },
+                    {
+                      "type": "button",
+                      "action": {
+                        "type": "message",
+                        "label": "อาหาร เปอร์เซีย",
+                        "text": "อาหาร เปอร์เซีย"
+                      },
+                      "style": "secondary"
+                    },
+                    {
+                      "style": "secondary",
+                      "action": {
+                        "text": "ลักษณะ เปอร์เซีย",
+                        "type": "message",
+                        "label": "ลักษณะ เปอร์เซีย"
+                      },
+                      "type": "button"
+                    }
+                  ]
+                },
+                "body": {
+                  "type": "box",
+                  "contents": [
+                    {
+                      "text": "Persian Cat",
+                      "type": "text",
+                      "weight": "bold",
+                      "size": "xl"
+                    },
+                    {
+                      "size": "sm",
+                      "wrap": true,
+                      "color": "#666666",
+                      "text": "แมวต่างประเทศสายพันธุ์เปอร์เซีย",
+                      "type": "text"
+                    }
+                  ],
+                  "layout": "vertical"
+                },
+                "hero": {
+                  "aspectMode": "cover",
+                  "aspectRatio": "20:13",
+                  "type": "image",
+                  "size": "full",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2.jpg?alt\u003dmedia\u0026token\u003d29719b62-2656-46ef-8d25-9c6e10d88a18"
+                },
+                "type": "bubble"
+              },
+              "altText": "Persian Cat",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

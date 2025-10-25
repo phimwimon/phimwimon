@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1aca01b5-95d6-4d8c-b37b-1c1bd01b3332",
+    "data": [
+      {
+        "text": "สารอาหารสกอตติช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "fd27d539-2a1e-4ca4-97bd-0c1374b482c4",
+    "data": [
+      {
+        "text": "สารอาหารสก็อตติช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "9ab79248-ab29-4249-a249-17c4cae697eb",
+    "data": [
+      {
+        "text": "สาสรอาหารสก็อตติชโฟลด์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "882e0b05-9663-440e-b857-0babd154cf22",
+    "data": [
+      {
+        "text": "สารอาหารแมวสก็อตติชโฟลด์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

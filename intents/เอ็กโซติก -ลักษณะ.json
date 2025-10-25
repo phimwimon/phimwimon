@@ -1,0 +1,96 @@
+{
+  "id": "65c6e8ef-cee0-42ea-96b3-cad171a4b0aa",
+  "name": "เอ็กโซติก -ลักษณะ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "แมวเอ็กโซติก",
+              "contents": {
+                "footer": {
+                  "layout": "horizontal",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "action": {
+                        "text": "รายละเอียด เอ็กซ์โซติก",
+                        "type": "message",
+                        "label": "🔎 รายละเอียด"
+                      },
+                      "style": "primary",
+                      "type": "button"
+                    },
+                    {
+                      "style": "secondary",
+                      "action": {
+                        "label": "🐾 เหมาะกับใคร",
+                        "type": "message",
+                        "text": "เอ็กซ์โซติก เหมาะกับใคร"
+                      },
+                      "type": "button"
+                    }
+                  ],
+                  "type": "box"
+                },
+                "type": "bubble",
+                "hero": {
+                  "aspectRatio": "20:13",
+                  "size": "full",
+                  "type": "image",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%82%E0%B8%8B%E0%B8%95%E0%B8%B4%E0%B8%81.png?alt\u003dmedia\u0026token\u003d4c501897-43cb-4084-9ba9-7c59b754fcda",
+                  "aspectMode": "cover"
+                },
+                "body": {
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "weight": "bold",
+                      "text": "เอ็กซ์โซติก ช็อตแฮร์",
+                      "size": "xl",
+                      "type": "text"
+                    },
+                    {
+                      "type": "text",
+                      "wrap": true,
+                      "size": "sm",
+                      "text": "😼 หน้าบูดน่ารัก ขนสั้น-กลาง หนานุ่ม",
+                      "color": "#555555"
+                    }
+                  ],
+                  "type": "box"
+                }
+              },
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

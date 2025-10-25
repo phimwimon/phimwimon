@@ -1,0 +1,96 @@
+{
+  "id": "12f558f3-c8f2-4c14-86de-fb76fea991e4",
+  "name": "โคาราช -ลักษณะ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "contents": {
+                "body": {
+                  "contents": [
+                    {
+                      "type": "text",
+                      "weight": "bold",
+                      "size": "xl",
+                      "text": "โคราช"
+                    },
+                    {
+                      "color": "#555555",
+                      "size": "sm",
+                      "wrap": true,
+                      "type": "text",
+                      "text": "💎 ขนสีเทาเงิน ตาเหลืองอมเขียว"
+                    }
+                  ],
+                  "type": "box",
+                  "layout": "vertical"
+                },
+                "type": "bubble",
+                "footer": {
+                  "contents": [
+                    {
+                      "action": {
+                        "text": "รายละเอียด โคราช",
+                        "type": "message",
+                        "label": "🔎 รายละเอียด"
+                      },
+                      "type": "button",
+                      "style": "primary"
+                    },
+                    {
+                      "style": "secondary",
+                      "action": {
+                        "text": "โคราช เหมาะกับใคร",
+                        "label": "🐾 เหมาะกับใคร",
+                        "type": "message"
+                      },
+                      "type": "button"
+                    }
+                  ],
+                  "spacing": "sm",
+                  "type": "box",
+                  "layout": "horizontal"
+                },
+                "hero": {
+                  "aspectRatio": "20:13",
+                  "size": "full",
+                  "aspectMode": "cover",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%8A.jpg?alt\u003dmedia\u0026token\u003d3d1d7fec-bf1b-410e-9d34-a77ea7a3d6ef",
+                  "type": "image"
+                }
+              },
+              "altText": "แมวโคราช"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

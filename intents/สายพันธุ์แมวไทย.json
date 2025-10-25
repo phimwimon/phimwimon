@@ -1,0 +1,236 @@
+{
+  "id": "8e95ba45-861a-4fac-b6d8-991393de8303",
+  "name": "สายพันธุ์แมวไทย",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "Cat Breeds Carousel",
+              "type": "flex",
+              "contents": {
+                "contents": [
+                  {
+                    "body": {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "size": "xl",
+                          "text": "Siamese Cat",
+                          "type": "text",
+                          "weight": "bold"
+                        },
+                        {
+                          "type": "text",
+                          "wrap": true,
+                          "size": "sm",
+                          "text": "แมวไทยสายพันธุ์วิเชียรมาศ หรือ แมวสยาม",
+                          "color": "#555555"
+                        }
+                      ]
+                    },
+                    "hero": {
+                      "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%A8.jpg?alt\u003dmedia\u0026token\u003de4e8ad70-e11a-42a7-82a7-70fdd8b9aeb6",
+                      "type": "image",
+                      "aspectRatio": "20:13",
+                      "size": "full",
+                      "aspectMode": "cover"
+                    },
+                    "type": "bubble",
+                    "footer": {
+                      "type": "box",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "style": "primary",
+                          "action": {
+                            "type": "message",
+                            "text": "วิธีดูแล วิเชียรมาศ",
+                            "label": "วิธีดูแล วิเชียรมาศ"
+                          }
+                        },
+                        {
+                          "action": {
+                            "text": "อาหาร วิเชียรมาศ",
+                            "type": "message",
+                            "label": "อาหาร วิเชียรมาศ"
+                          },
+                          "type": "button",
+                          "style": "secondary"
+                        },
+                        {
+                          "action": {
+                            "label": "ลักษณะ วิเชียรมาศ",
+                            "text": "ลักษณะ วิเชียรมาศ",
+                            "type": "message"
+                          },
+                          "type": "button",
+                          "style": "secondary"
+                        }
+                      ],
+                      "layout": "vertical"
+                    }
+                  },
+                  {
+                    "type": "bubble",
+                    "footer": {
+                      "spacing": "sm",
+                      "layout": "vertical",
+                      "type": "box",
+                      "contents": [
+                        {
+                          "style": "primary",
+                          "type": "button",
+                          "action": {
+                            "label": "วิธีดูแล โคราช",
+                            "type": "message",
+                            "text": "วิธีดูแล โคราช"
+                          }
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "text": "อาหาร โคราช",
+                            "label": "อาหาร โคราช",
+                            "type": "message"
+                          },
+                          "style": "secondary"
+                        },
+                        {
+                          "style": "secondary",
+                          "action": {
+                            "label": "ลักษณะ โคราช",
+                            "text": "ลักษณะ โคราช",
+                            "type": "message"
+                          },
+                          "type": "button"
+                        }
+                      ]
+                    },
+                    "body": {
+                      "layout": "vertical",
+                      "type": "box",
+                      "contents": [
+                        {
+                          "size": "xl",
+                          "type": "text",
+                          "text": "Korat Cat",
+                          "weight": "bold"
+                        },
+                        {
+                          "text": "แมวไทยสายพันธุ์โคราช",
+                          "size": "sm",
+                          "wrap": true,
+                          "type": "text",
+                          "color": "#555555"
+                        }
+                      ]
+                    },
+                    "hero": {
+                      "size": "full",
+                      "aspectMode": "cover",
+                      "type": "image",
+                      "aspectRatio": "20:13",
+                      "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%8A.jpg?alt\u003dmedia\u0026token\u003d3d1d7fec-bf1b-410e-9d34-a77ea7a3d6ef"
+                    }
+                  },
+                  {
+                    "hero": {
+                      "size": "full",
+                      "aspectMode": "cover",
+                      "aspectRatio": "20:13",
+                      "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%93%E0%B8%B5.jpg?alt\u003dmedia\u0026token\u003deffbfe0e-4b95-478e-900b-757dc0f122bf",
+                      "type": "image"
+                    },
+                    "body": {
+                      "layout": "vertical",
+                      "type": "box",
+                      "contents": [
+                        {
+                          "text": "Khaomanee Cat",
+                          "weight": "bold",
+                          "size": "xl",
+                          "type": "text"
+                        },
+                        {
+                          "type": "text",
+                          "wrap": true,
+                          "text": "แมวไทยสายพันธุ์ขาวมณี",
+                          "color": "#555555",
+                          "size": "sm"
+                        }
+                      ]
+                    },
+                    "footer": {
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "button",
+                          "action": {
+                            "text": "วิธีดูแล ขาวมณี",
+                            "type": "message",
+                            "label": "วิธีดูแล ขาวมณี"
+                          },
+                          "style": "primary"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "text": "อาหาร ขาวมณี",
+                            "label": "อาหาร ขาวมณี",
+                            "type": "message"
+                          },
+                          "style": "secondary"
+                        },
+                        {
+                          "type": "button",
+                          "action": {
+                            "label": "ลักษณะ ขาวมณี",
+                            "type": "message",
+                            "text": "ลักษณะ ขาวมณี"
+                          },
+                          "style": "secondary"
+                        }
+                      ],
+                      "type": "box",
+                      "layout": "vertical"
+                    },
+                    "type": "bubble"
+                  }
+                ],
+                "type": "carousel"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

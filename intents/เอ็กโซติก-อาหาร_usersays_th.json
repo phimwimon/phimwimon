@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e5bbec43-8ca8-4f41-b6f8-e4b36347bc96",
+    "data": [
+      {
+        "text": "อาหาร ช็อตแฮร์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e429988c-4f94-4e43-9716-08509d893f51",
+    "data": [
+      {
+        "text": "อาหาร เอ็กซ์โซติก ช็อตแฮร์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "5df569ac-eb4a-44f3-92a3-bb85e1595149",
+    "data": [
+      {
+        "text": "แนะนำอาหารเอกโซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "23d11544-235f-4c20-b676-4a3fecfe7dbd",
+    "data": [
+      {
+        "text": "แนะนำอาหารเอ็กโซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c818c077-ff45-41c5-8c18-9d9835ca0d41",
+    "data": [
+      {
+        "text": "อาหาร เอ็กซ์โซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "1b2533eb-808d-402f-901d-ab20a2154781",
+    "data": [
+      {
+        "text": "อาหาร เอ็กโซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

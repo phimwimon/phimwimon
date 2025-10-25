@@ -1,0 +1,106 @@
+[
+  {
+    "id": "74cbb3ff-7a67-43e4-9d3a-e2c07e832188",
+    "data": [
+      {
+        "text": "สัดส่วน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "6500be22-e2b5-4767-a145-375764310240",
+    "data": [
+      {
+        "text": "ปริมาณ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "7cdf825b-d7ba-442d-bd38-2d7706a6b7db",
+    "data": [
+      {
+        "text": "แบรนด์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "78d1aed2-0e32-4e3b-a38b-27649cb08454",
+    "data": [
+      {
+        "text": "ชนิด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "b4fa8e39-57ec-4a25-aba5-c125a762f418",
+    "data": [
+      {
+        "text": "แนะนำ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "31ab29e4-bb0d-467f-a2af-10e5b50ca62d",
+    "data": [
+      {
+        "text": "ยี่ห้อ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "3cd01463-b887-4c5f-9621-745711a947ed",
+    "data": [
+      {
+        "text": "ปริมาณอาหาร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d7af153a-e2a5-4d04-ba6c-f00a6e860f5c",
+    "data": [
+      {
+        "text": "สารอาหาร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

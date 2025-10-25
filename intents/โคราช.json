@@ -1,0 +1,105 @@
+{
+  "id": "0b86475f-6afa-4ff7-bdb4-21f27d340fdb",
+  "name": "โคราช",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "Korat Cat",
+              "type": "flex",
+              "contents": {
+                "body": {
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Korat Cat",
+                      "weight": "bold",
+                      "size": "xl"
+                    },
+                    {
+                      "size": "sm",
+                      "wrap": true,
+                      "text": "แมวไทยสายพันธุ์โคราช",
+                      "color": "#555555",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "box",
+                  "layout": "vertical"
+                },
+                "footer": {
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "style": "primary",
+                      "type": "button",
+                      "action": {
+                        "label": "วิธีดูแล โคราช",
+                        "type": "message",
+                        "text": "วิธีดูแล โคราช"
+                      }
+                    },
+                    {
+                      "style": "secondary",
+                      "type": "button",
+                      "action": {
+                        "type": "message",
+                        "label": "อาหาร โคราช",
+                        "text": "อาหาร โคราช"
+                      }
+                    },
+                    {
+                      "action": {
+                        "label": "ลักษณะ โคราช",
+                        "text": "ลักษณะ โคราช",
+                        "type": "message"
+                      },
+                      "type": "button",
+                      "style": "secondary"
+                    }
+                  ],
+                  "type": "box"
+                },
+                "type": "bubble",
+                "hero": {
+                  "size": "full",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%8A.jpg?alt\u003dmedia\u0026token\u003d3d1d7fec-bf1b-410e-9d34-a77ea7a3d6ef",
+                  "aspectMode": "cover",
+                  "type": "image",
+                  "aspectRatio": "20:13"
+                }
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

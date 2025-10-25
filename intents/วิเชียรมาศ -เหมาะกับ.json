@@ -1,0 +1,35 @@
+{
+  "id": "8b400d36-0bc4-4e7e-a287-c8820855ff0c",
+  "name": "วิเชียรมาศ -เหมาะกับ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "💡 แมวสายพันธุ์วิเชียรมาศ เหมาะกับใคร : คนที่ชอบแมวเรียบร้อย ขี้อ้อน และเป็นมิตรกับเจ้าของ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

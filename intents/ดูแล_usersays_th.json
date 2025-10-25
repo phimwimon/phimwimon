@@ -1,0 +1,496 @@
+[
+  {
+    "id": "f0f271c0-55f6-422f-9679-b1ed3dd9b18a",
+    "data": [
+      {
+        "text": "ข้อระวัง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "09278489-6150-43af-b4ea-20511061dfb5",
+    "data": [
+      {
+        "text": "เห็บแมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "0cfe1a9e-ae0f-4998-82e6-187139bab02f",
+    "data": [
+      {
+        "text": "หมัดแมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "60e57ef2-151c-4fcb-bb88-a7bb64428100",
+    "data": [
+      {
+        "text": "หมัด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "67cfc4d6-226c-4f37-879d-d8c41c1910d6",
+    "data": [
+      {
+        "text": "เห็บหมัด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "2ddb1915-1e6b-4021-abf0-d502555d1181",
+    "data": [
+      {
+        "text": "เห็บหมา",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "f8be5662-7c78-46c2-81f9-ed7eb029fc7b",
+    "data": [
+      {
+        "text": "อาบ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "7b755f3a-d120-4b41-a3f4-f72a155d63f5",
+    "data": [
+      {
+        "text": "อาบน้ำ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "52a046e6-892a-42c3-81b9-827c291ddb58",
+    "data": [
+      {
+        "text": "การอาบน้ำ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "79e0b2ff-cabf-4622-aebb-ac41136422fd",
+    "data": [
+      {
+        "text": "ทำความสะอาดใงบหน้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "751a5ee8-a5e3-4e51-bf85-cb3d5ac14256",
+    "data": [
+      {
+        "text": "ใบหน้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "de8e904e-5ee8-4922-bf85-931f00bef683",
+    "data": [
+      {
+        "text": "หน้า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "fa89c1f2-5d0c-4f68-a180-65a1196b5f5b",
+    "data": [
+      {
+        "text": "หู",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "df779f90-a983-481a-8502-27378d0d52ee",
+    "data": [
+      {
+        "text": "ทำความสะอาดหู",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "58b2985f-e83c-490a-a0d2-f999c508fb56",
+    "data": [
+      {
+        "text": "ตัดขน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "1dbe5ab5-de64-4c84-9c8e-678674040449",
+    "data": [
+      {
+        "text": "ตัดเล็บ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "6876ef72-f82e-4636-af37-f0fb3eeb015b",
+    "data": [
+      {
+        "text": "ขน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "faf1a6e2-0bb1-4be9-9210-69a905fdad3b",
+    "data": [
+      {
+        "text": "แปรงขน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "191ed905-7145-431e-a6de-89ee87ac68e4",
+    "data": [
+      {
+        "text": "นอน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "792a8def-1c7f-49ed-a414-8b7e68a70b7b",
+    "data": [
+      {
+        "text": "ที่นอน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "93adf0ef-5895-4f5e-8af5-9b36bab50004",
+    "data": [
+      {
+        "text": "ที่อยู่อาศัย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "5d610e83-1c71-4f03-9540-0d6dd4fafd50",
+    "data": [
+      {
+        "text": "อาศัย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "0d6fbb4c-86f6-4b9c-9243-349f548f53e4",
+    "data": [
+      {
+        "text": "การเป็นอยู่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ce646c18-4774-47ab-aa6e-82d27f24e4cd",
+    "data": [
+      {
+        "text": "ดูแลสุขภาพ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "b4cb65f3-d395-4368-b2b2-95d7bfe9eba3",
+    "data": [
+      {
+        "text": "อยู่อาศัย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e443e549-4ced-4f28-ac41-2160dd68452a",
+    "data": [
+      {
+        "text": "สุขภาพ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ee3d82ec-170f-4c99-a41d-3ec1a71cea56",
+    "data": [
+      {
+        "text": "วิธีดูแล",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "b8087c08-ccd9-410f-ae02-e2824dd8872d",
+    "data": [
+      {
+        "text": "วิธีเลี้ยง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "44dcffe3-6e2f-4fc3-b553-9e2e9d94c3ba",
+    "data": [
+      {
+        "text": "ทริคดี ๆ ในการเลี้ยงแมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d10e57fb-8d5a-4a5f-88e8-5fa8f22daf28",
+    "data": [
+      {
+        "text": "ทริคดี ๆ ในการดูแลแมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "85b2445c-4606-4316-a977-2fafbcebc39e",
+    "data": [
+      {
+        "text": "เลี้ยงแมวยังไงให้สุขภาพดี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "f88eb1ee-5a87-4339-b9e3-51f98c9102bc",
+    "data": [
+      {
+        "text": "ดูแลและเลี้ยง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "f0c5bc42-4bff-49c1-a77d-e935b157b199",
+    "data": [
+      {
+        "text": "เลี้ยง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d939562a-0eb6-4491-8cfa-5aa006e84946",
+    "data": [
+      {
+        "text": "การเลี้ยงแมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "69630183-b7cf-4660-9c0d-a722668ca743",
+    "data": [
+      {
+        "text": "วิธีเลี้ยงแมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4f7ee149-5c4e-491a-90d3-7ef6b0aca17f",
+    "data": [
+      {
+        "text": "เลี้ยงแมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "3ffedc5b-7008-4f3e-9d44-c6ebfc22ca19",
+    "data": [
+      {
+        "text": "ดูแลแมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "84dc70f5-8108-40d4-a246-854b85735c06",
+    "data": [
+      {
+        "text": "ดูแล",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

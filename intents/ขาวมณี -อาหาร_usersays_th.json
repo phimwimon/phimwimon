@@ -1,0 +1,93 @@
+[
+  {
+    "id": "3ea2fcc2-f631-48cc-b5ba-79f4eb94523c",
+    "data": [
+      {
+        "text": "แนะนำอาหารขาวมณี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "cd945281-c650-4915-a970-478261ab3b86",
+    "data": [
+      {
+        "text": "แนะนำอาหารแมวขาวมณี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "2626aa70-5618-4946-a6d9-ef722d5f6164",
+    "data": [
+      {
+        "text": "อาหารมนี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "46695500-70eb-407e-b4cd-4b66552d18c2",
+    "data": [
+      {
+        "text": "อาหาร ขาวมนี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "dfa6550b-d87d-4784-9fa2-18b733910a50",
+    "data": [
+      {
+        "text": "อาหาร ขาว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "005926b7-d6d0-4769-8338-2d10f60fa1ce",
+    "data": [
+      {
+        "text": "อาหาร ขาวมณี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "2c20a255-13c0-4f6b-8e86-e9fec2d30737",
+    "data": [
+      {
+        "text": "อาหาร แมวขาวมณี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

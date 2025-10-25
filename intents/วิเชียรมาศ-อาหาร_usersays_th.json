@@ -1,0 +1,80 @@
+[
+  {
+    "id": "60fcdca8-2080-4b6c-a77c-934a63a08e20",
+    "data": [
+      {
+        "text": "แนะนำอาหารวิเชียร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "dbe38263-f857-4165-845e-4a4fed5f35cb",
+    "data": [
+      {
+        "text": "แนะนำอาหารวิเชียรมาศ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "aef24ccb-cc59-4f24-82b9-a2e10eca1306",
+    "data": [
+      {
+        "text": "อาหาร วิเชียนมาศ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "dbf94e11-23ab-4a3c-a143-eeccd61302f2",
+    "data": [
+      {
+        "text": "อาหาร วิเชียรมาส",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "03c032f6-86ab-4009-bc6b-92cf1ff5ca2f",
+    "data": [
+      {
+        "text": "อาหาร วิเชียนมาส",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d4736252-ce64-4ed1-aac1-b27e5e47f54e",
+    "data": [
+      {
+        "text": "อาหาร วิเชียรมาศ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

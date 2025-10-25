@@ -1,0 +1,96 @@
+{
+  "id": "7873858f-79d0-46b8-a64d-809accb4d5df",
+  "name": "ขาวมณี -ลักษณะ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "type": "bubble",
+                "body": {
+                  "contents": [
+                    {
+                      "weight": "bold",
+                      "size": "xl",
+                      "text": "ขาวมณี",
+                      "type": "text"
+                    },
+                    {
+                      "color": "#555555",
+                      "text": "🤍 ขนขาว ตาสีฟ้า-เหลือง หรือสองสี",
+                      "type": "text",
+                      "size": "sm",
+                      "wrap": true
+                    }
+                  ],
+                  "layout": "vertical",
+                  "type": "box"
+                },
+                "footer": {
+                  "layout": "horizontal",
+                  "type": "box",
+                  "contents": [
+                    {
+                      "action": {
+                        "label": "🔎 รายละเอียด",
+                        "text": "รายละเอียด ขาวมณี",
+                        "type": "message"
+                      },
+                      "type": "button",
+                      "style": "primary"
+                    },
+                    {
+                      "type": "button",
+                      "style": "secondary",
+                      "action": {
+                        "label": "🐾 เหมาะกับใคร",
+                        "text": "ขาวมณี เหมาะกับใคร",
+                        "type": "message"
+                      }
+                    }
+                  ],
+                  "spacing": "sm"
+                },
+                "hero": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%93%E0%B8%B5.jpg?alt\u003dmedia\u0026token\u003deffbfe0e-4b95-478e-900b-757dc0f122bf",
+                  "aspectMode": "cover",
+                  "size": "full",
+                  "aspectRatio": "20:13",
+                  "type": "image"
+                }
+              },
+              "altText": "แมวขาวมณี",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

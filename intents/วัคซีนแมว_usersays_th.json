@@ -1,0 +1,277 @@
+[
+  {
+    "id": "138294e5-e23b-4786-b66a-c6170beecd03",
+    "data": [
+      {
+        "text": "วัคซีนสกอตติช",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e3caf635-4d00-429c-b9e6-9fd276346006",
+    "data": [
+      {
+        "text": "วัคซีนขาวมนี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c2389428-50a1-4b68-acdb-99eb07b04215",
+    "data": [
+      {
+        "text": "วัคซีนเปอเซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "90634e7d-c7f6-4a67-ada6-e5bdc4e1149b",
+    "data": [
+      {
+        "text": "วัคซีนเอ็กซ์โซติกช็อตแฮร์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "15c3163e-049d-4661-94f1-42f614708467",
+    "data": [
+      {
+        "text": "วัคซีนเอ็กซ์โซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d0473b17-b28b-4cf1-872f-3c76d8332937",
+    "data": [
+      {
+        "text": "วัคซีนสก็อตติชโฟลด์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "70725a4c-aebd-42f6-a484-d41c16ca91fb",
+    "data": [
+      {
+        "text": "วัคซีนเปอร์เซีย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "c8ea63e8-a8c4-4e0c-ae15-c608dd9846b4",
+    "data": [
+      {
+        "text": "วัคซีนโคราช",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "bd92f019-1dee-47aa-984a-48199e95bb80",
+    "data": [
+      {
+        "text": "วัคซีนขาวมณี",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "6c156a72-02bd-46f7-aee2-6a8968e7c910",
+    "data": [
+      {
+        "text": "วัคซีนวิเชียรมาศ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "836747a6-1c13-446e-b4a0-430184b07019",
+    "data": [
+      {
+        "text": "การทำวัคซีนแมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "547ad186-4dd3-4614-8673-94009bf47c59",
+    "data": [
+      {
+        "text": "ชีดวัคซีน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "a70946e6-c306-423c-9529-e6ad174738aa",
+    "data": [
+      {
+        "text": "ฉีดวัคซีนแมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "3509892e-3036-4da2-913c-35ac0baa90b1",
+    "data": [
+      {
+        "text": "ยา",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "75eeb55c-bf96-4518-8a4c-6a6d6047d46a",
+    "data": [
+      {
+        "text": "ฉีดยา",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "d980c76a-5b44-4001-851a-5bac88220adb",
+    "data": [
+      {
+        "text": "ฉีดวัคซีน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "7b30f70b-bfa7-43ab-992c-b63a43aff828",
+    "data": [
+      {
+        "text": "วัคฉีน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "4d92d0d9-fa1c-4110-936d-6cd76d5e4a32",
+    "data": [
+      {
+        "text": "วัคชีน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "1ffcf856-92b0-4e25-903b-a9e4307b6a7f",
+    "data": [
+      {
+        "text": "วักซิน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "33a0bb0f-0c64-45a4-8761-3b7a8cc5805f",
+    "data": [
+      {
+        "text": "วัคซีน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "ed1292a5-fb1d-4df8-a9d5-72c85d99bfe4",
+    "data": [
+      {
+        "text": "วัคซีนแมว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

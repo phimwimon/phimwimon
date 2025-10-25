@@ -1,0 +1,67 @@
+[
+  {
+    "id": "8fc96605-546c-4269-a561-c290d5cb48f3",
+    "data": [
+      {
+        "text": "ลักษณะเอ็กซ์โซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "aef4d3ca-9671-4047-8945-e145d652b236",
+    "data": [
+      {
+        "text": "ลักษณะโซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "79cc4c90-7666-4de7-b92f-90168e3e719c",
+    "data": [
+      {
+        "text": "ลักษณะเอกโซติค",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "59d9fda5-058e-41ab-a363-57f4d1556289",
+    "data": [
+      {
+        "text": "ลักษณะ เอกโชติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "e47ec067-53a8-44c4-b961-1f08c264af2f",
+    "data": [
+      {
+        "text": "ลักษณะ เอ็กโซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

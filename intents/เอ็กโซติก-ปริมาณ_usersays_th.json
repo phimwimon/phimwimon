@@ -1,0 +1,80 @@
+[
+  {
+    "id": "7a416fbc-c2d2-47d0-bcc2-2e38ab4575a0",
+    "data": [
+      {
+        "text": "ปริมาณอาหารแมวเอกโซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "f86f6857-f1ae-4b70-a3a2-87523ae31b6d",
+    "data": [
+      {
+        "text": "ปริมาณอาหารเอกโซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "2ca3e4eb-3dd9-4401-b8bf-6758b34fb8b4",
+    "data": [
+      {
+        "text": "ปริมาณอาหารแมวเอ็กโซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "b7b06fc5-75f1-4de2-b781-454c8d332f6c",
+    "data": [
+      {
+        "text": "ปริมาณอาหารเอ็กโซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "696760bc-abd9-4b25-9d8a-6404d7e42b51",
+    "data": [
+      {
+        "text": "ปริมาณอาหารเอ็กซ์โซติกช็อตแฮร์",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  },
+  {
+    "id": "a2ddeaaa-04a4-4aa3-8730-d8427561a11a",
+    "data": [
+      {
+        "text": "ปริมาณอาหารแมวเอ็กซ์โซติก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "th",
+    "updated": 0
+  }
+]

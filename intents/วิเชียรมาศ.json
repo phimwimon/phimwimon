@@ -1,0 +1,105 @@
+{
+  "id": "7540ca9d-4ca5-469e-9cb7-7e1bd0cd7667",
+  "name": "วิเชียรมาศ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "altText": "Siamese Cat",
+              "type": "flex",
+              "contents": {
+                "body": {
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "weight": "bold",
+                      "type": "text",
+                      "size": "xl",
+                      "text": "Siamese Cat"
+                    },
+                    {
+                      "color": "#555555",
+                      "type": "text",
+                      "text": "แมวไทยสายพันธุ์วิเชียรมาศ หรือ แมวสยาม",
+                      "size": "sm",
+                      "wrap": true
+                    }
+                  ],
+                  "type": "box"
+                },
+                "hero": {
+                  "aspectRatio": "20:13",
+                  "type": "image",
+                  "size": "full",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%A8.jpg?alt\u003dmedia\u0026token\u003de4e8ad70-e11a-42a7-82a7-70fdd8b9aeb6",
+                  "aspectMode": "cover"
+                },
+                "footer": {
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "button",
+                      "style": "primary",
+                      "action": {
+                        "type": "message",
+                        "text": "วิธีดูแล วิเชียรมาศ",
+                        "label": "วิธีดูแล วิเชียรมาศ"
+                      }
+                    },
+                    {
+                      "action": {
+                        "text": "อาหาร วิเชียรมาศ",
+                        "type": "message",
+                        "label": "อาหาร วิเชียรมาศ"
+                      },
+                      "style": "secondary",
+                      "type": "button"
+                    },
+                    {
+                      "type": "button",
+                      "style": "secondary",
+                      "action": {
+                        "type": "message",
+                        "text": "ลักษณะ วิเชียรมาศ",
+                        "label": "ลักษณะ วิเชียรมาศ"
+                      }
+                    }
+                  ],
+                  "spacing": "sm",
+                  "type": "box"
+                },
+                "type": "bubble"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

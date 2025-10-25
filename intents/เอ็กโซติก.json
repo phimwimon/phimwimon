@@ -1,0 +1,105 @@
+{
+  "id": "e7f66195-fd5f-445b-9125-ebfc74a2d277",
+  "name": "เอ็กโซติก",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "footer": {
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "button",
+                      "action": {
+                        "label": "วิธีดูแล เอ็กซ์โซติก",
+                        "text": "วิธีดูแล เอ็กซ์โซติก",
+                        "type": "message"
+                      },
+                      "style": "primary"
+                    },
+                    {
+                      "type": "button",
+                      "action": {
+                        "type": "message",
+                        "label": "อาหาร เอ็กซ์โซติก",
+                        "text": "อาหาร เอ็กซ์โซติก"
+                      },
+                      "style": "secondary"
+                    },
+                    {
+                      "action": {
+                        "type": "message",
+                        "text": "ลักษณะ เอ็กซ์โซติก",
+                        "label": "ลักษณะ เอ็กซ์โซติก"
+                      },
+                      "style": "secondary",
+                      "type": "button"
+                    }
+                  ],
+                  "type": "box"
+                },
+                "hero": {
+                  "aspectMode": "cover",
+                  "size": "full",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B9%82%E0%B8%8B%E0%B8%95%E0%B8%B4%E0%B8%81.png?alt\u003dmedia\u0026token\u003d4c501897-43cb-4084-9ba9-7c59b754fcda",
+                  "aspectRatio": "20:13",
+                  "type": "image"
+                },
+                "type": "bubble",
+                "body": {
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "text": "Exotic Shorthair Cat",
+                      "weight": "bold",
+                      "type": "text",
+                      "size": "xl"
+                    },
+                    {
+                      "type": "text",
+                      "size": "sm",
+                      "wrap": true,
+                      "text": "แมวต่างประเทศสายพันธุ์เอ็กซ์โซติก ช็อตแฮร์",
+                      "color": "#666666"
+                    }
+                  ],
+                  "type": "box"
+                }
+              },
+              "altText": "Exotic Shorthair Cat",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

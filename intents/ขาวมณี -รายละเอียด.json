@@ -1,0 +1,35 @@
+{
+  "id": "afe26f86-4da4-4e04-b4fb-f57de36e95e5",
+  "name": "ขาวมณี -รายละเอียด",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "🤍 แมวขาวมณี\n\n✨ จุดเด่น\n🧴 ขนสั้นสีขาวปลอดทั้งตัว นุ่มฟู\n👁️ ดวงตามีทั้งสีฟ้า, สีเหลืองอำพัน, หรือ “ตาสองสี”\n💖 หัวคล้ายหัวใจ หน้าผากกว้าง หูตั้ง"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

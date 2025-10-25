@@ -1,0 +1,125 @@
+{
+  "id": "aeb1df8e-6975-4e3a-bbe9-f3a0a6441abf",
+  "name": "ขาวมณี -อาหาร",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "contents": {
+                "header": {
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "color": "#006400",
+                      "type": "text",
+                      "align": "center",
+                      "text": "Khaomanee Cat",
+                      "weight": "bold"
+                    },
+                    {
+                      "text": "อาหารแมวขาวมณี",
+                      "type": "text",
+                      "color": "#000000FF"
+                    }
+                  ],
+                  "type": "box"
+                },
+                "type": "bubble",
+                "direction": "ltr",
+                "hero": {
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%93%E0%B8%B5.png?alt\u003dmedia\u0026token\u003da392fc4c-8ee8-454d-971f-1be554b4df18",
+                  "aspectRatio": "1.51:1",
+                  "aspectMode": "fit",
+                  "size": "5xl",
+                  "type": "image"
+                },
+                "footer": {
+                  "layout": "vertical",
+                  "type": "box",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "color": "#006400",
+                          "action": {
+                            "label": "สารอาหาร",
+                            "text": "สารอาหารแมวขาวมณี",
+                            "type": "message"
+                          },
+                          "type": "button",
+                          "height": "sm",
+                          "style": "primary"
+                        },
+                        {
+                          "color": "#006400",
+                          "type": "button",
+                          "style": "primary",
+                          "height": "sm",
+                          "action": {
+                            "label": "ปริมาณอาหาร",
+                            "text": "ปริมาณอาหารแมวขาวมณี",
+                            "type": "message"
+                          }
+                        }
+                      ],
+                      "layout": "horizontal"
+                    },
+                    {
+                      "height": "sm",
+                      "type": "button",
+                      "color": "#006400",
+                      "action": {
+                        "label": "📎 แนะนำอาหาร",
+                        "uri": "https://www.purina.co.th/find-a-pet/cat-breeds/khao-manee",
+                        "type": "uri"
+                      },
+                      "style": "primary"
+                    }
+                  ]
+                }
+              },
+              "altText": "อาหารแมวขาวมณี"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

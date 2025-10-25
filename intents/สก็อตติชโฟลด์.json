@@ -1,0 +1,105 @@
+{
+  "id": "a61f341d-0211-4eb7-9a05-a218c4c02d08",
+  "name": "สก็อตติชโฟลด์",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "flex",
+              "contents": {
+                "hero": {
+                  "size": "full",
+                  "type": "image",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%AA%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%8A%E0%B9%82%E0%B8%9F%E0%B8%A5%E0%B8%94%E0%B9%8C.jpg?alt\u003dmedia\u0026token\u003daa7ad90e-e8d2-4e3c-8687-13d4dde31e0b",
+                  "aspectRatio": "20:13",
+                  "aspectMode": "cover"
+                },
+                "body": {
+                  "layout": "vertical",
+                  "type": "box",
+                  "contents": [
+                    {
+                      "weight": "bold",
+                      "type": "text",
+                      "text": "Scottish Fold Cat",
+                      "size": "xl"
+                    },
+                    {
+                      "color": "#666666",
+                      "type": "text",
+                      "text": "แมวต่างประเทศสายพันธุ์สก็อตติช โฟลด์",
+                      "wrap": true,
+                      "size": "sm"
+                    }
+                  ]
+                },
+                "type": "bubble",
+                "footer": {
+                  "contents": [
+                    {
+                      "type": "button",
+                      "style": "primary",
+                      "action": {
+                        "label": "วิธีดูแล สก็อตติช",
+                        "type": "message",
+                        "text": "วิธีดูแล สก็อตติช"
+                      }
+                    },
+                    {
+                      "action": {
+                        "text": "อาหาร สก็อตติช",
+                        "type": "message",
+                        "label": "อาหาร สก็อตติช"
+                      },
+                      "style": "secondary",
+                      "type": "button"
+                    },
+                    {
+                      "type": "button",
+                      "action": {
+                        "label": "ลักษณะ สก็อตติช",
+                        "text": "ลักษณะ สก็อตติช",
+                        "type": "message"
+                      },
+                      "style": "secondary"
+                    }
+                  ],
+                  "type": "box",
+                  "spacing": "sm",
+                  "layout": "vertical"
+                }
+              },
+              "altText": "Scottish Fold Cat"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

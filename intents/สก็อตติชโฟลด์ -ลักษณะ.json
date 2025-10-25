@@ -1,0 +1,96 @@
+{
+  "id": "07da072b-a4c1-458e-ad24-7ef80fa088e5",
+  "name": "สก็อตติชโฟลด์ -ลักษณะ",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "contents": {
+                "footer": {
+                  "layout": "horizontal",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "button",
+                      "action": {
+                        "type": "message",
+                        "label": "🔎 รายละเอียด",
+                        "text": "รายละเอียด สก็อตติชโฟลด์"
+                      },
+                      "style": "primary"
+                    },
+                    {
+                      "action": {
+                        "text": "สก็อตติชโฟลด์ เหมาะกับใคร",
+                        "type": "message",
+                        "label": "🐾 เหมาะกับใคร"
+                      },
+                      "style": "secondary",
+                      "type": "button"
+                    }
+                  ],
+                  "type": "box"
+                },
+                "hero": {
+                  "type": "image",
+                  "aspectRatio": "20:13",
+                  "url": "https://firebasestorage.googleapis.com/v0/b/cat-chatbot-43d87.firebasestorage.app/o/%E0%B8%AA%E0%B8%81%E0%B9%87%E0%B8%AD%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%8A%E0%B9%82%E0%B8%9F%E0%B8%A5%E0%B8%94%E0%B9%8C.jpg?alt\u003dmedia\u0026token\u003daa7ad90e-e8d2-4e3c-8687-13d4dde31e0b",
+                  "aspectMode": "cover",
+                  "size": "full"
+                },
+                "type": "bubble",
+                "body": {
+                  "contents": [
+                    {
+                      "text": "สก็อตติชโฟลด์",
+                      "weight": "bold",
+                      "size": "xl",
+                      "type": "text"
+                    },
+                    {
+                      "size": "sm",
+                      "type": "text",
+                      "wrap": true,
+                      "text": "🦉 หูพับ หน้ากลม ตาโต คล้ายนกฮูก",
+                      "color": "#555555"
+                    }
+                  ],
+                  "layout": "vertical",
+                  "type": "box"
+                }
+              },
+              "altText": "แมวสก็อตติชโฟลด์",
+              "type": "flex"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

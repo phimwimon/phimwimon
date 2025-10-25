@@ -1,0 +1,101 @@
+{
+  "id": "e5d9daa4-d6a6-43ef-af2d-927e165fea50",
+  "name": "อาหารแมว",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "line",
+          "title": "",
+          "payload": {
+            "line": {
+              "type": "text",
+              "quickReply": {
+                "items": [
+                  {
+                    "action": {
+                      "type": "message",
+                      "text": "อาหาร วิเชียรมาศ",
+                      "label": "วิเชียรมาศ"
+                    },
+                    "type": "action"
+                  },
+                  {
+                    "type": "action",
+                    "action": {
+                      "type": "message",
+                      "text": "อาหาร ขาวมณี",
+                      "label": "ขาวมณี"
+                    }
+                  },
+                  {
+                    "type": "action",
+                    "action": {
+                      "type": "message",
+                      "label": "โคราช",
+                      "text": "อาหาร โคราช"
+                    }
+                  },
+                  {
+                    "type": "action",
+                    "action": {
+                      "label": "เปอร์เซีย",
+                      "type": "message",
+                      "text": "อาหาร เปอร์เซีย"
+                    }
+                  },
+                  {
+                    "action": {
+                      "type": "message",
+                      "text": "อาหาร สก็อตติชโฟลด์",
+                      "label": "สก็อตติชโฟลด์"
+                    },
+                    "type": "action"
+                  },
+                  {
+                    "action": {
+                      "label": "เอ็กซ์โซติก ช็อตแฮร์",
+                      "text": "อาหาร เอ็กซ์โซติก ช็อตแฮร์",
+                      "type": "message"
+                    },
+                    "type": "action"
+                  }
+                ]
+              },
+              "text": "เลือกสายพันธุ์แมวเพื่อดูอาหาร:"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "line": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

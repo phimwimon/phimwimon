@@ -1,0 +1,35 @@
+{
+  "id": "38290a75-b1a6-4b52-be56-7f2dcfcf01f3",
+  "name": "โคราช -รายละเอียด",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "th",
+          "speech": [
+            "💎 แมวโคราช\n\n✨ จุดเด่น\n👀 ตาสีเหลือง หรือ เหลืองอมเขียว\n🩶 ขนสีเทาเงินตั้งแต่เกิด ขนสั้น เรียบ\n💖 ตัวผู้มักมีรอยหน้าผากคล้ายรูปหัวใจ"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
